@@ -1,0 +1,4 @@
+url,label
+http://example.com,benign
+http://192.168.1.1/malicious,phishing
+https://secure-site.com/login,benign
